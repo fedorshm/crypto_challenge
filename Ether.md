@@ -9,7 +9,7 @@ On March 23, 2022, Ronin -- an Ethereum-linked blockchain platform for a play-to
 
 After the hack, the attackers swapped the stolen USDC for Ether and began to launder the Ether via three centralized exchanges, as well as sending funds to a popular currency mixer service Tornado Cash. They were able to extract roughly $200 million. The U.S. government recovered around $30 million worth of the stolen tokens. 
 
-On June 6, 2022, the Ronin bridge was reopened with improved security measures (increased number of validators and software update).  
+The developers of Axie Infinity raised $150 million to reimburse the affected users. On June 6, 2022, the Ronin bridge was reopened with improved security measures (increased number of validators and software update).  
 
 ###### 2022-02-02
 On February 2, 2022, Wormhole -- a token bridge between Ethereum and Solana -- suffered a loss of 120,000 Wrapped Ether tokens (worth $321 million at the time) as a result of a security flaw exploit. The attacker used an update to the project's GitHub repository which revealed a fix to a bug that had not been deployed to the project itself, which allowed the attacker to forge a valid signature for a transaction and mint 120,000 of Wrapped Ether without inputting an equivalent amount. 

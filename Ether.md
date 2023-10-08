@@ -28,7 +28,7 @@ It is clearly visible that the total monthly number of Ether mentions on Google 
 
 Within the nine months, the ratio of scam-related mentions to general mentions of Ether ranges from 0,127 to 0,248. The smallest number of scam-related mentions was in June (around 12,7% of all mentions), followed by February (15,6%) and May (16,1%). The highest number of scam-related mentions was in March (around 24,9% of all mentions), followed by September (23,4%), January (22,5%), and April (22,1%). July and August share an almost identical number of scam-related mentions: 20,4% and 20,8% respectively. 
 
-If the trend continues, we may see a slow decrease in the total number of Ether mentions and the number of scam-related mentions of Ether not exceeding about 25% of all mentions. 
+If the trend continues, we may see a slow decrease in the total number of Ether mentions and the number of scam-related mentions of Ether not exceeding about 25% of all mentions in the following months. 
 
 The pie chart below shows that the number of Ether mentions related to scam activities on Google News from January to September, 2023, represented 20,6% of all mentions. 
 

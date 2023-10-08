@@ -22,4 +22,4 @@ On February 24, 2022, Jump Crypto and Oasis (a privately owned app deployed on t
 
 The bar chart below demonstrates the ratio of scam-related mentions ot Ether on Google News from January to September, 2023
 
-![MONTHLY_plot](https://github.com/fedorshm/crypto_challenge/assets/147091881/a4f0e083-9ab4-48d2-aa17-ef269e74ae6e)
+MONTHLY_plot.png

@@ -20,3 +20,5 @@ The funds were later replaced by Jump Crypto, which was involved in the developm
 
 On February 24, 2022, Jump Crypto and Oasis (a privately owned app deployed on top of decentralized finance protocol MakerDAO) counter-exploited the attacker and retrieved $218 million as per an order from the High Court of England and Wales. 
 
+The bar chart below demonstrates the ratio of scam-related mentions ot Ether on Google News from January to September, 2023
+

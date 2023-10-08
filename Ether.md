@@ -20,6 +20,16 @@ The funds were later replaced by Jump Crypto, which was involved in the developm
 
 On February 24, 2022, Jump Crypto and Oasis (a privately owned app deployed on top of decentralized finance protocol MakerDAO) counter-exploited the attacker and retrieved $218 million as per an order from the High Court of England and Wales. 
 
-The bar chart below demonstrates the ratio of scam-related mentions ot Ether on Google News from January to September, 2023
+The bar chart below demonstrates the ratio of scam-related mentions to general mentions of Ether on Google News from January to September, 2023
 
 ![MONTHLY_plot](https://github.com/fedorshm/crypto_challenge/assets/147091881/301785e5-2632-472f-95cb-103841b22dfc)
+
+It is clearly visible that the total monthly number of Ether mentions on Google News from January to July stays relatively low and about the same, ranging from 204 to 244 mentions. August saw a significant increase in the total number of Ether mentions, rising up to 942. September followed with a slight decrease to 792 mentions. 
+
+Within the nine months, the ratio of scam-related mentions to general mentions of Ether ranges from 0,127 to 0,248. The smallest number of scam-related mentions was in June (around 12,7% of all mentions), followed by February (15,6%) and May (16,1%). The highest number of scam-related mentions was in March (around 24,9% of all mentions), followed by September (23,4%), January (22,5%), and April (22,1%). July and August share an almost identical number of scam-related mentions: 20,4% and 20,8% respectively. 
+
+If the trend continues, we may see a slow decrease in the total number of Ether mentions and the number of scam-related mentions of Ether not exceeding about 25% of all mentions. 
+
+The pie chart below shows that the number of Ether mentions related to scam activities on Google News from January to September, 2023, represented 20,6% of all mentions. 
+
+![PIE_CHART](https://github.com/fedorshm/crypto_challenge/assets/147091881/da921902-20d6-464c-90fc-9e34b5d07fcd)

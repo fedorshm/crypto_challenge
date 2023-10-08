@@ -12,7 +12,7 @@ After the hack, the attackers swapped the stolen USDC for Ether and began to lau
 On June 6, 2022, the Ronin bridge was reopened with improved security measures (increased number of validators and software update).  
 
 ###### 2022-02-2
-On February 2, 2022, Wormhole -- a token bridge between Ethereum and Solana -- suffered a loss of of 120,000 Wrapped Ether tokens (worth $321 million at the time) as a result of a security flaw exploit. The attacker used an update to the project's GitHub repository which revealed a fix to a bug that had not been deployed to the project itself, which allowed the attacker to forge a valid signature for a transaction and mint 120,000 of Wrapped Ether without inputting an equivalent amount. 
+On February 2, 2022, Wormhole -- a token bridge between Ethereum and Solana -- suffered a loss of 120,000 Wrapped Ether tokens (worth $321 million at the time) as a result of a security flaw exploit. The attacker used an update to the project's GitHub repository which revealed a fix to a bug that had not been deployed to the project itself, which allowed the attacker to forge a valid signature for a transaction and mint 120,000 of Wrapped Ether without inputting an equivalent amount. 
 
 Following the attack, the Wormhole team contacted the hacker, presenting them a bug bounty of $10 million for exploit details and returning what had been minted. The offer was ignored. The attacker's ETH wallet to which the stolen tokens were moved is 0x629e7da20197a5429d30da36e77d06cdf796b71a. 
 
